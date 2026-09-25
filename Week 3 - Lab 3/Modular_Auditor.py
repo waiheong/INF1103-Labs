@@ -14,7 +14,7 @@ def get_validIinput():
         return None
     return quantity
 
-#for delivery
+##for delivery
 def process_delivery(current_total, new_total):
     return current_total + new_total
 
