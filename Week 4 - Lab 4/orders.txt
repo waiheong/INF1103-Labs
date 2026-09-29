@@ -1,0 +1,32 @@
+[
+    {
+        "id": "UUID1",
+        "name": "apple v2",
+        "quantity": 2398
+    },
+    {
+        "id": "UUID2",
+        "name": "orange v2",
+        "quantity": 345
+    },
+    {
+        "id": "UUID3",
+        "name": "pear V2",
+        "quantity": 5467
+    },
+    {
+        "id": "UUID4",
+        "name": "watermelon",
+        "quantity": 3
+    },
+    {
+        "id": "UUID5",
+        "name": "lemon2",
+        "quantity": 670
+    },
+    {
+        "id": "UUID6",
+        "name": "idk",
+        "quantity": 32
+    }
+]
