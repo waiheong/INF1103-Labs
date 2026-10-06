@@ -1,0 +1,4 @@
+https://github.com/waiheong/INF1103-Labs
+
+sorry prof, i updated my git as there were some issues with it thus it didn't capture most of the history. 
+sorry i also forgot to commit and push regularly
