@@ -1,0 +1,86 @@
+{
+    "products": [
+        {
+            "id": "UUID1",
+            "name": "apple",
+            "price": 23.0,
+            "stock": 20
+        },
+        {
+            "id": "UUID2",
+            "name": "orange",
+            "price": 8.0,
+            "stock": 1021
+        },
+        {
+            "id": "UUID3",
+            "name": "lemon",
+            "price": 23.0,
+            "stock": 210
+        },
+        {
+            "id": "UUID4",
+            "name": "pear",
+            "price": 23.0,
+            "stock": 100
+        }
+    ],
+    "history": [
+        {
+            "timestamp": "2026-10-07 14:42:34",
+            "product_id": "UUID1",
+            "action": "ADD",
+            "change": 10,
+            "stock_after": 10
+        },
+        {
+            "timestamp": "2026-10-07 14:43:50",
+            "product_id": "UUID1",
+            "action": "UPDATE",
+            "change": 10,
+            "stock_after": 20
+        },
+        {
+            "timestamp": "2026-10-07 14:44:25",
+            "product_id": "UUID2",
+            "action": "ADD",
+            "change": 23,
+            "stock_after": 23
+        },
+        {
+            "timestamp": "2026-10-07 14:46:12",
+            "product_id": "UUID3",
+            "action": "ADD",
+            "change": 10,
+            "stock_after": 10
+        },
+        {
+            "timestamp": "2026-10-07 14:47:21",
+            "product_id": "UUID3",
+            "action": "UPDATE",
+            "change": 200,
+            "stock_after": 210
+        },
+        {
+            "timestamp": "2026-10-07 14:50:40",
+            "product_id": "UUID2",
+            "action": "UPDATE",
+            "change": -5,
+            "stock_after": 18
+        },
+        {
+            "timestamp": "2026-10-07 14:51:26",
+            "product_id": "UUID4",
+            "action": "ADD",
+            "change": 100,
+            "stock_after": 100
+        },
+        {
+            "timestamp": "2026-10-07 14:59:37",
+            "product_id": "UUID2",
+            "action": "UPDATE",
+            "change": 1003,
+            "stock_after": 1021
+        }
+    ]
+}
