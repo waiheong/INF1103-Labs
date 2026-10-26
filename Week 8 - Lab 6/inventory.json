@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": "UUID1",
+            "name": "apple",
+            "price": 12.0,
+            "stock": 2100
+        },
+        {
+            "id": "UUID2",
+            "name": "watermelon",
+            "price": 321.0,
+            "stock": 3124
+        }
+    ],
+    "history": [
+        {
+            "timestamp": "2026-10-26 14:10:42",
+            "product_id": "UUID1",
+            "action": "ADD",
+            "change": 2100,
+            "stock_after": 2100
+        },
+        {
+            "timestamp": "2026-10-26 14:10:57",
+            "product_id": "UUID2",
+            "action": "ADD",
+            "change": 3124,
+            "stock_after": 3124
+        }
+    ]
+}
