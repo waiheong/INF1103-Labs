@@ -1,4 +1,4 @@
-# main file run this
+## main file run this
 # it will display menu, get user input and call appropriate Inventory methods
 
 from product import Product
