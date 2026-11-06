@@ -1,0 +1,72 @@
+{
+    "products": [
+        {
+            "id": "UUID1",
+            "name": "apple",
+            "price": 2.0,
+            "stock": 32,
+            "type": "digital",
+            "download_size": 123.0
+        },
+        {
+            "id": "UUID2",
+            "name": "orange",
+            "price": 23.0,
+            "stock": 3723,
+            "type": "physical",
+            "weight": 32.0
+        },
+        {
+            "id": "UUID3",
+            "name": "Lemon",
+            "price": 3.0,
+            "stock": 700,
+            "type": "physical",
+            "weight": 0.8
+        }
+    ],
+    "history": [
+        {
+            "timestamp": "2026-11-06 11:26:15",
+            "product_id": "UUID1",
+            "action": "ADD",
+            "change": 32,
+            "stock_after": 32
+        },
+        {
+            "timestamp": "2026-11-06 11:26:35",
+            "product_id": "UUID2",
+            "action": "ADD",
+            "change": 512,
+            "stock_after": 512
+        },
+        {
+            "timestamp": "2026-11-06 11:27:02",
+            "product_id": "UUID2",
+            "action": "UPDATE",
+            "change": 3211,
+            "stock_after": 3723
+        },
+        {
+            "timestamp": "2026-11-06 12:03:29",
+            "product_id": "UUID3",
+            "action": "ADD",
+            "change": 123,
+            "stock_after": 123
+        },
+        {
+            "timestamp": "2026-11-06 12:03:54",
+            "product_id": "UUID3",
+            "action": "UPDATE",
+            "change": 654,
+            "stock_after": 777
+        },
+        {
+            "timestamp": "2026-11-06 12:04:18",
+            "product_id": "UUID3",
+            "action": "UPDATE",
+            "change": -77,
+            "stock_after": 700
+        }
+    ]
+}
