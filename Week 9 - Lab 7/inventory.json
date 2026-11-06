@@ -20,7 +20,7 @@
             "id": "UUID3",
             "name": "Lemon",
             "price": 3.0,
-            "stock": 700,
+            "stock": 7000,
             "type": "physical",
             "weight": 0.8
         }
