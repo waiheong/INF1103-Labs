@@ -1,0 +1,251 @@
+commit 471b8a324b9fef99880430983fb2a8e9e0544fb0
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 12 10:05:53 2026 +0800
+
+    inventory JSON file
+
+commit 914f0e23a0e9f3fa5c635cab7e13279200023d56
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 12 10:04:53 2026 +0800
+
+    test case
+
+commit 9a78ad16ca78ff5d9de965eeed14928157552552
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 12 10:00:35 2026 +0800
+
+    add supplier and JSON save/load
+
+commit aec6f30f8aa1d784384b2225e5ae8569aa50dbf8
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 12 09:57:46 2026 +0800
+
+    shipping information
+
+commit c0391a6ab9fcd4bcac6709acab29382a0d941ec8
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 12 09:56:53 2026 +0800
+
+    add orders
+
+commit f9e545ce12c4f14905a33956961da0d20d46ae5c
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 12 09:53:41 2026 +0800
+
+    inventory
+
+commit bb76ff171711d8cb3dc666a9223daaf4a780e325
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 12 09:52:27 2026 +0800
+
+    associate product
+
+commit 2b91e3adb7bae3d57061ac14e450aa1a2c3e3d09
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 12 09:51:11 2026 +0800
+
+    add supplier class
+
+commit cdc6730015a42a984232cd0c339803341eaa0a51
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 12 09:46:49 2026 +0800
+
+    gitignore
+
+commit 500d1436c837cacd980cf2d736506261c2ba3725
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:55:53 2026 +0800
+
+    log file
+
+commit 31a858eb92c5cf017b95b7a122737c5ed8a67e1f
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:54:35 2026 +0800
+
+    images / screenshot
+
+commit 27d555908391f069b33ca576dac8f69ac50ffaf9
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:51:46 2026 +0800
+
+    docker file
+
+commit f2bd105453b488083625ac218dd0d788ea85cda4
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:36:00 2026 +0800
+
+    inventory.json
+
+commit 9b8dfb44b80d89a9a49acf410a688a08fd2c2cdc
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:34:55 2026 +0800
+
+    test case
+
+commit d298a348abf5b52150ce157d92b78796f9f43e08
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:33:13 2026 +0800
+
+    inventory
+
+commit d62d3be44dca902ee151e66ec901a1ecc98f2e86
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:32:35 2026 +0800
+
+    file handler
+
+commit 72d182fd7f62e1d46f14bac30d60da82027d2fb5
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:31:27 2026 +0800
+
+    main file
+
+commit 9dd579cb8f5012baa87e40df574090058550d2df
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:30:09 2026 +0800
+
+    digital product
+
+commit 3017a6fea954538adc4320e9acf2c5cca1b2795d
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:28:41 2026 +0800
+
+    physical product
+
+commit 5f4bcb985e7ac6a519eef916e21da306aea5897a
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:22:54 2026 +0800
+
+    shipping cost
+
+commit 1b91c7e98bb4b3b9b43032150b6ecf8027c9cbd5
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:17:38 2026 +0800
+
+    product
+
+commit 0f52b2962615001e54a3756db616d6882ad9995b
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 12:15:02 2026 +0800
+
+    gitignore files
+
+commit fef8fd04d4f82409853df0ef7d6bc831d0dd860b
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 5 12:52:01 2026 +0800
+
+    log
+
+commit f56ee9a57682bd57bd747e14b2051726c67954c5
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Thu Nov 5 12:48:01 2026 +0800
+
+    New Folder
+
+commit 1025668e02d87b7e43a5e7b359ca4ca99e02c915
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Mon Oct 26 15:03:59 2026 +0800
+
+    Log txt files
+
+commit 6a295056b039af97b625a11957cc87202b315afb
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Mon Oct 26 14:42:21 2026 +0800
+
+    Docker Files
+
+commit 4893f1054cbdf6f2960aff0f55b9a8865afd8d5c
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Mon Oct 26 14:33:42 2026 +0800
+
+    Log txt files
+
+commit ac65ad18f97a3e9ca1bdedf893d3bb2274541c6b
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Mon Oct 26 14:31:37 2026 +0800
+
+    Inventory.json File
+
+commit 1fe87c22aead76e755f5b121a8cd231962fe707c
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Mon Oct 26 14:29:32 2026 +0800
+
+    Main Files with Files Handling
+
+commit 5699390145cd5a1aff394ed69abaf69c43fb4d77
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Mon Oct 26 14:28:50 2026 +0800
+
+    Main Files with Files Handling
+
+commit 5dfacd55938ca7d1213c9acbeca936eaabf6899e
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Mon Oct 26 14:24:47 2026 +0800
+
+    Created Inventory class
+
+commit f83c35c9cb26d5e638b0a18df329c4426054fff4
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Mon Oct 26 14:23:18 2026 +0800
+
+    Created Product class
+
+commit b817bd496a646ea5db99a6d626f60bc2bf1be209
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Mon Oct 26 13:37:08 2026 +0800
+
+    v1
+
+commit 70ac95bb29432d3d5fea7a67a13595846d0c9b14
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Wed Oct 7 15:15:19 2026 +0800
+
+    v3
+
+commit b07bd37e90179d7ec6cb2cbb571ec3c28069b20c
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Wed Oct 7 15:14:25 2026 +0800
+
+    v2
+
+commit 48466419380571562212ef81f5953350d574e823
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Wed Oct 7 15:05:09 2026 +0800
+
+    v1
+
+commit c894430398a8bb3fe185a94c4aa3e6431ae67128
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Tue Oct 6 17:36:08 2026 +0800
+
+    v3
+
+commit a1cd607767caee2c871bf76fc6d48e2d4eff9aa7
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Tue Sep 29 12:48:52 2026 +0800
+
+    v3
+
+commit 05fff7ca56a211b85a9adb188b34d082deae9d20
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Tue Sep 29 12:41:10 2026 +0800
+
+    v2
+
+commit 12ec37337a19cd5a08ad741ea849a7c080c2a5d0
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Sep 25 16:37:48 2026 +0800
+
+    log file updated
+
+commit f0927e8968867a4ec6c42c1dd5713c6896b7d56c
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Sep 25 16:22:35 2026 +0800
+
+    Lab3 Test
+
+commit 2367f84c55bd849e6d16f3c2d0583a6043394f1e
+Author: Lim Wai Heong <2603071@sit.singaporetech.edu.sg>
+Date:   Fri Sep 25 16:15:54 2026 +0800
+
+    update
