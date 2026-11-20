@@ -1,0 +1,6 @@
+product_type,product_id,name,price,stock_quantity
+physical,P001,Apple,1.20,100
+digital,D001,Fruit Recipe eBook,12.90,50
+service,S001,Fruit Delivery,5.00,20
+physical,P002,Durian,abc,8
+physical,P003,Watermelon,8.50,30
