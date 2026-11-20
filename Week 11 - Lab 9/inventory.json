@@ -1,0 +1,175 @@
+{
+    "suppliers": [
+        {
+            "id": "SUP1",
+            "name": "FreshFarm Pte Ltd",
+            "contact_email": "sales@freshfarm.sg"
+        },
+        {
+            "id": "SUP2",
+            "name": "Tropical Fruits Co",
+            "contact_email": "hello@tropicalfruits.sg"
+        },
+        {
+            "id": "SUP3",
+            "name": "fruits",
+            "contact_email": "fruits@company.com"
+        }
+    ],
+    "products": [
+        {
+            "id": "UUID1",
+            "name": "Watermelon",
+            "price": 8.5,
+            "stock": 20,
+            "supplier_id": "SUP1",
+            "type": "physical",
+            "weight": 3.5
+        },
+        {
+            "id": "UUID2",
+            "name": "Apple",
+            "price": 1.2,
+            "stock": 90,
+            "supplier_id": "SUP1",
+            "type": "physical",
+            "weight": 0.2
+        },
+        {
+            "id": "UUID3",
+            "name": "Mango",
+            "price": 2.8,
+            "stock": 60,
+            "supplier_id": "SUP2",
+            "type": "physical",
+            "weight": 0.4
+        },
+        {
+            "id": "UUID4",
+            "name": "Mango Recipe eBook",
+            "price": 12.9,
+            "stock": 50,
+            "supplier_id": "SUP2",
+            "type": "digital",
+            "download_size": 25.0
+        },
+        {
+            "id": "UUID6",
+            "name": "Berrys",
+            "price": 32.0,
+            "stock": 754,
+            "supplier_id": "SUP1",
+            "type": "digital",
+            "download_size": 861.0
+        },
+        {
+            "id": "UUID7",
+            "name": "Lemon",
+            "price": 13.0,
+            "stock": 2144,
+            "supplier_id": "SUP1",
+            "type": "physical",
+            "weight": 90.0
+        }
+    ],
+    "history": [
+        {
+            "timestamp": "2026-11-11 13:56:39",
+            "product_id": "UUID1",
+            "action": "ADD",
+            "change": 20,
+            "stock_after": 20
+        },
+        {
+            "timestamp": "2026-11-11 13:56:39",
+            "product_id": "UUID2",
+            "action": "ADD",
+            "change": 100,
+            "stock_after": 100
+        },
+        {
+            "timestamp": "2026-11-11 13:56:39",
+            "product_id": "UUID3",
+            "action": "ADD",
+            "change": 60,
+            "stock_after": 60
+        },
+        {
+            "timestamp": "2026-11-11 13:56:39",
+            "product_id": "UUID4",
+            "action": "ADD",
+            "change": 50,
+            "stock_after": 50
+        },
+        {
+            "timestamp": "2026-11-11 13:56:39",
+            "product_id": "UUID2",
+            "action": "UPDATE",
+            "change": -10,
+            "stock_after": 90
+        },
+        {
+            "timestamp": "2026-11-19 23:19:07",
+            "product_id": "UUID5",
+            "action": "ADD",
+            "change": 2323,
+            "stock_after": 2323
+        },
+        {
+            "timestamp": "2026-11-19 23:20:17",
+            "product_id": "UUID6",
+            "action": "ADD",
+            "change": 754,
+            "stock_after": 754
+        },
+        {
+            "timestamp": "2026-11-19 23:20:53",
+            "product_id": "UUID5",
+            "action": "UPDATE",
+            "change": 2000,
+            "stock_after": 4323
+        },
+        {
+            "timestamp": "2026-11-19 23:21:18",
+            "product_id": "UUID5",
+            "action": "REMOVE",
+            "change": 0,
+            "stock_after": 4323
+        },
+        {
+            "timestamp": "2026-11-19 23:44:59",
+            "product_id": "UUID7",
+            "action": "ADD",
+            "change": 1144,
+            "stock_after": 1144
+        },
+        {
+            "timestamp": "2026-11-19 23:45:30",
+            "product_id": "UUID7",
+            "action": "UPDATE",
+            "change": 1000,
+            "stock_after": 2144
+        },
+        {
+            "timestamp": "2026-11-19 23:48:05",
+            "product_id": "P001",
+            "action": "ADD",
+            "change": 10,
+            "stock_after": 10
+        },
+        {
+            "timestamp": "2026-11-19 23:48:05",
+            "product_id": "D001",
+            "action": "ADD",
+            "change": 100,
+            "stock_after": 100
+        },
+        {
+            "timestamp": "2026-11-19 23:48:05",
+            "product_id": "P003",
+            "action": "ADD",
+            "change": 7,
+            "stock_after": 7
+        }
+    ]
+}
